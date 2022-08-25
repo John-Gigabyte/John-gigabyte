@@ -1,6 +1,6 @@
 # About me
--  Hi, I’m @John-gigabite
--  I’m interested in Web Dev and Embedded Systems
+-  Hi, I’m John-gigabite
+-  I’m interested in Web Dev, Embedded Systems, and Desktop App Dev
 -  I’m currently learning Full Stack Development with Dr. Angela Yu!
--  BS in Computer Engineering (Fall 2022)
+-  BS in Computer Engineering (Dec 2022)
 
