@@ -1,6 +1,7 @@
 # About me
 -  Hi, I’m John Gomez!
--  Aspiring Software Engineer
--  Full Stack Dev skills
+-  Software Engineer working with C#/.Net, C++, and C
+-  Passion for Embedded Systems in Aerospace Applications , and learning new code
 -  BS in Computer Engineering
+
 
