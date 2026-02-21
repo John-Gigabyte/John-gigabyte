@@ -2,8 +2,8 @@
 # About me
 
 -  Hi, I’m John Gomez!
--  Software Engineer working with C#/.Net, C++, and C
--  Passion for ML algortithms, Software in Aerospace Applications and learning to code better
+-  Software Engineer working with C#/.Net, C/C++, and Python
+-  Passion for ML, Software in Aerospace Applications and learning to code better
 -  BS in Computer Engineering
 
 
